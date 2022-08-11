@@ -10,20 +10,21 @@ format:
     css: styles.css
 ---
 
-# 
+# Overview
 
-## Pretty Code {auto-animate="true"}
+-   Introduce some terminology
+-   Workflow 1: Make a repository from scratch and track some changes
+-   Workflow 2: Collaborating on an existing repository; contribut to the onboarding website
+-   Workflow 3: Introduce branches: https://github.com/usamabilal/dp5_mortality
 
--   Over 20 syntax highlighting themes available
--   Default theme optimized for accessibility
+# Git and GitHub
 
-``` r
-# Define a server for the Shiny app
-function(input, output) {
-  
-  # Fill in the spot we created for a plot
-  output$phonePlot <- renderPlot({
-    # Render a barplot
-  })
-}
-```
+![](images/github.png){fig-align="center" width="719"}
+
+-   git: is a version-control software; it track changes in files.
+
+-   GitHub: is a online git platform that allows people to collaborate easily on a project.
+
+    -   backs your git projects online
+
+    -   provides user friendly UI to interact with git.
