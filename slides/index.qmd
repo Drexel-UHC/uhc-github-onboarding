@@ -4,8 +4,6 @@ subtitle: "Slide deck to introduce Git and GitHub"
 format:
   revealjs: 
     slide-number: true
-    chalkboard: 
-      buttons: false
     preview-links: auto
     css: styles.css
 ---
@@ -21,10 +19,39 @@ format:
 
 ![](images/github.png){fig-align="center" width="719"}
 
--   git: is a version-control software; it track changes in files.
+-   **git**: is a version-control software; it track changes in files.
 
--   GitHub: is a online git platform that allows people to collaborate easily on a project.
+-   **GitHub**: is a online platform that facilitates collaboration via git
 
-    -   backs your git projects online
+# Create new repository
 
-    -   provides user friendly UI to interact with git.
+::: panel-tabset
+## 1. Sign in
+
+![](images/workflow1-signin.png){width="534"}
+
+## 2. Create new repo
+
+![](images/workflow1-create-new-repo.png){width="534"} 
+
+## 3.  Options
+
+![](images/workflow1-repo-options.PNG){width="534"}
+
+:::
+
+# Commit a change
+
+- A **Commit** is saving a version of your project. Git tracks changes in between versions
+- Commit often! Any meaningful progress should be committed. This helps you reset in case something goes run and makes managing changes easier.
+- You can track changes and commit with GitHub desktop
+- Lets make a secret change (sensitive data!)
+
+# Pushing to GitHub
+
+- You have updated your git project on your own computer (local)
+- Now let us push it to GitHub
+ 
+# Cloning an existing GitHub repo
+
+- a repository is just a collection of files tracked by git
