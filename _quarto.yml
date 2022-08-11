@@ -5,7 +5,10 @@ website:
   title: "uhc-github-onboarding"
   navbar:
     left:
-      - people.qmd
+      - text: "Introduction"
+        href: intro.qmd
+      - text: "People"
+        href: people.qmd
     right:
       - about.qmd
       - icon: github

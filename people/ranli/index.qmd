@@ -1,12 +1,11 @@
 ---
-title: "Hello world"
+title: "Hello!"
 author: "Ran Li"
 date: "2022-08-11"
-image: https://picsum.photos/100/100
+image: https://picsum.photos/300/300
 categories: [introduction]
 ---
 
-# Introduction
 
 My name is Ran. My favorite animal are cats!
 

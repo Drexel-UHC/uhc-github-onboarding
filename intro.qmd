@@ -1,0 +1,11 @@
+---
+title: "Intro"
+subtitle: "Some introductory slides"
+page-layout: full
+title-block-banner: true
+slide-format: revealjs
+---
+
+
+<iframe class="slide-deck" src="slides/"  width="100%" height="500" ></iframe>
+
